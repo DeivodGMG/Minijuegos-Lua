@@ -1,0 +1,4 @@
+- Escriba en la consola lua menu.lua para poder ejecutar el programa.
+- Borrar un archivo equivale a corromper el codigo entero
+-------------------------------------------
+Programa creado por DeivodGMG (David Ibarra) :3
