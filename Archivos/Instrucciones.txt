@@ -1,4 +1,5 @@
-- Escriba en la consola lua menu.lua para poder ejecutar el programa.
+1. Escriba en la terminal lo siguiente: cd Archivos (Esto para acceder a la carpeta)
+2. Ahora escriba: lua menu.lua (Dandole a enter, ya estarias ejecutando el programa)
 - Borrar un archivo equivale a corromper el codigo entero
 -------------------------------------------
 Programa creado por DeivodGMG (David Ibarra) :3
